@@ -3,8 +3,8 @@ from discord import app_commands
 from discord.ui import TextInput, Modal, View, Button
 
 # ⚠️ СРОЧНО: Сбрось этот токен в Discord Developer Portal и вставь новый!
-TOKEN = "MTU1MzA5MzEwODAxNzkyMjIxOQ.GxFUkD.3quIWtP26fMimT8in6s6VDyos1r8XDtIXXy1UY"
-TARGET_CHANNEL_ID = 1562158488170528848
+TOKEN = 
+TARGET_CHANNEL_ID = 
 
 intents = discord.Intents.default()
 client = discord.Client(intents=intents)
